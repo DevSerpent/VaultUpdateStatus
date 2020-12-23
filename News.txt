@@ -1,7 +1,2 @@
-Vault7 is updated for Patch 10.25 and safe to use!
-Vault7 is updated for Patch 10.25 and safe to use!
-
-Vault7 is updated for Patch 10.25 and safe to use!
-Vault7 is updated for Patch 10.25 and safe to use!
-Vault7 is updated for Patch 10.25 and safe to use!
-Vault7 is updated for Patch 10.25 and safe to use!
+Vault7 is updated for patch 10.25 and safe to use!
+--Initial release for Vault7!--
